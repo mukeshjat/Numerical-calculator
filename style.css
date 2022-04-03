@@ -67,6 +67,6 @@ grid-column: 1/3;
 }
 @media only screen and (max-width: 400px){
     .button{
-        height: 90px;
+        height: 90pxs;
     }
 }
